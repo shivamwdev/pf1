@@ -1,0 +1,4 @@
+1.padding bottom from every section navbar
+2.fielset box shadow set
+3.home section responsive
+4.contact section responsive

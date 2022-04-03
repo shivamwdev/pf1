@@ -1,0 +1,17 @@
+Hubballi    -->     paragraph fonts*
+Poppins    -->     paragraph fonts
+Signika     -->     heading fonts
+Supermercado One    -->     for logo fonts
+
+here's the family names 
+    font-family: 'Hubballi', cursive;*
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Signika', sans-serif;
+    font-family: 'Supermercado One', cursive;
+
+header section 
+z-index: 10;
+
+navbar section
+z-index: 10;
+
